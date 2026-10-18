@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="34efd95c-36b8-4ff3-af94-20d0b2f895d1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2h8wPlusI8p7DahCCIRFnPrvsHj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Convert.executor&quot;: &quot;Run&quot;,
+    &quot;Python.activations_and_gradients.executor&quot;: &quot;Run&quot;,
+    &quot;Python.block.executor&quot;: &quot;Run&quot;,
+    &quot;Python.coco2yolo.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.heatmap.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hm3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.modify_txt.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.pred.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyqt.executor&quot;: &quot;Run&quot;,
+    &quot;Python.qq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.qqq.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recovery.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/code/yolov9&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\hg" />
+      <recent name="D:\code\hg\runs" />
+      <recent name="D:\code\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="heatmap" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO-GD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/heatmap.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO-GD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO-GD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hm3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO-GD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hm3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="YOLO-GD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.hm" />
+        <item itemvalue="Python.hm3" />
+        <item itemvalue="Python.hm2" />
+        <item itemvalue="Python.heatmap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PY-241.15989.155" />
+        <option value="bundled-python-sdk-babbdf50b680-7c6932dee5e4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.15989.155" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34efd95c-36b8-4ff3-af94-20d0b2f895d1" name="Changes" comment="" />
+      <created>1716988991596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716988991596</updated>
+      <workItem from="1716988992351" duration="3519000" />
+      <workItem from="1717052186997" duration="12730000" />
+      <workItem from="1717122829575" duration="1304000" />
+      <workItem from="1717229359003" duration="13162000" />
+      <workItem from="1717308038823" duration="1499000" />
+      <workItem from="1717323186552" duration="7530000" />
+      <workItem from="1717378052998" duration="14000" />
+      <workItem from="1717410699561" duration="7355000" />
+      <workItem from="1717424329850" duration="153000" />
+      <workItem from="1717916516413" duration="2100000" />
+      <workItem from="1717994351571" duration="13717000" />
+      <workItem from="1718081296382" duration="622000" />
+      <workItem from="1718089315479" duration="2292000" />
+      <workItem from="1718518548436" duration="2184000" />
+      <workItem from="1718687780536" duration="273000" />
+      <workItem from="1718692761608" duration="419000" />
+      <workItem from="1718694060058" duration="2251000" />
+      <workItem from="1718696706371" duration="2816000" />
+      <workItem from="1718701284209" duration="1940000" />
+      <workItem from="1718709593890" duration="443000" />
+      <workItem from="1718712654156" duration="2069000" />
+      <workItem from="1718772156679" duration="353000" />
+      <workItem from="1718856142322" duration="1055000" />
+      <workItem from="1718864271324" duration="5593000" />
+      <workItem from="1719031609871" duration="1208000" />
+      <workItem from="1719042200299" duration="15000" />
+      <workItem from="1719042388987" duration="557000" />
+      <workItem from="1719043248038" duration="889000" />
+      <workItem from="1719117039534" duration="1494000" />
+      <workItem from="1719131956511" duration="9864000" />
+      <workItem from="1719198783453" duration="30000" />
+      <workItem from="1719291665339" duration="10233000" />
+      <workItem from="1719306117399" duration="2404000" />
+      <workItem from="1719310542894" duration="374000" />
+      <workItem from="1719311023975" duration="4255000" />
+      <workItem from="1719316998598" duration="75000" />
+      <workItem from="1719501186491" duration="1331000" />
+      <workItem from="1719642656383" duration="802000" />
+      <workItem from="1719646807077" duration="2672000" />
+      <workItem from="1719716981476" duration="397000" />
+      <workItem from="1719729601415" duration="5000" />
+      <workItem from="1719730632268" duration="152000" />
+      <workItem from="1719808606074" duration="256000" />
+      <workItem from="1719824228404" duration="2084000" />
+      <workItem from="1719830726979" duration="1552000" />
+      <workItem from="1719833708476" duration="1972000" />
+      <workItem from="1719910353033" duration="5245000" />
+      <workItem from="1719923330463" duration="26000" />
+      <workItem from="1719977894967" duration="18256000" />
+      <workItem from="1720095082300" duration="3599000" />
+      <workItem from="1720231333498" duration="13133000" />
+      <workItem from="1720497997385" duration="1452000" />
+      <workItem from="1720775456370" duration="207000" />
+      <workItem from="1720837367010" duration="815000" />
+      <workItem from="1720838702852" duration="10870000" />
+      <workItem from="1725346487677" duration="788000" />
+      <workItem from="1727490562511" duration="3549000" />
+      <workItem from="1727513689169" duration="398000" />
+      <workItem from="1727930502252" duration="1655000" />
+      <workItem from="1727932411335" duration="10897000" />
+      <workItem from="1728115809801" duration="9000" />
+      <workItem from="1729831964314" duration="1363000" />
+      <workItem from="1731826993209" duration="722000" />
+      <workItem from="1732932109783" duration="967000" />
+      <workItem from="1733193506397" duration="1784000" />
+      <workItem from="1733230365646" duration="280000" />
+      <workItem from="1733233153532" duration="69000" />
+      <workItem from="1733306241818" duration="111000" />
+      <workItem from="1734270710409" duration="873000" />
+      <workItem from="1734500331548" duration="4078000" />
+      <workItem from="1734588072545" duration="188000" />
+      <workItem from="1740017933748" duration="146000" />
+      <workItem from="1740367116880" duration="753000" />
+      <workItem from="1740381945238" duration="19000" />
+      <workItem from="1741590704568" duration="66000" />
+      <workItem from="1741756494265" duration="4426000" />
+      <workItem from="1741779669860" duration="858000" />
+      <workItem from="1742349471712" duration="7915000" />
+      <workItem from="1742359883635" duration="8606000" />
+      <workItem from="1742434443438" duration="5905000" />
+      <workItem from="1742452202414" duration="144000" />
+      <workItem from="1742615053745" duration="12000" />
+      <workItem from="1742643324655" duration="953000" />
+      <workItem from="1742730279321" duration="376000" />
+      <workItem from="1742793942068" duration="746000" />
+      <workItem from="1742866523228" duration="2495000" />
+      <workItem from="1742869726002" duration="2131000" />
+      <workItem from="1742874804692" duration="4129000" />
+      <workItem from="1742897237230" duration="761000" />
+      <workItem from="1742972348535" duration="704000" />
+      <workItem from="1743040535607" duration="3783000" />
+      <workItem from="1743126622432" duration="746000" />
+      <workItem from="1743128415168" duration="839000" />
+      <workItem from="1744169740619" duration="868000" />
+      <workItem from="1744180320233" duration="1442000" />
+      <workItem from="1744615726625" duration="633000" />
+      <workItem from="1744785555772" duration="4967000" />
+      <workItem from="1746500804320" duration="2441000" />
+      <workItem from="1746597051042" duration="16270000" />
+      <workItem from="1746953549853" duration="4493000" />
+      <workItem from="1747014795719" duration="1295000" />
+      <workItem from="1747029526136" duration="766000" />
+      <workItem from="1747034219877" duration="365000" />
+      <workItem from="1747034765234" duration="124000" />
+      <workItem from="1747105770077" duration="1810000" />
+      <workItem from="1747448303924" duration="588000" />
+      <workItem from="1747450835785" duration="7016000" />
+      <workItem from="1747618604365" duration="201000" />
+      <workItem from="1747744236575" duration="2700000" />
+      <workItem from="1747796236437" duration="1334000" />
+      <workItem from="1747805989898" duration="6448000" />
+      <workItem from="1747816148668" duration="45000" />
+      <workItem from="1747963783366" duration="1275000" />
+      <workItem from="1748053449695" duration="5000" />
+      <workItem from="1748054007696" duration="1645000" />
+      <workItem from="1748063687583" duration="1620000" />
+      <workItem from="1748065816526" duration="24332000" />
+      <workItem from="1748138677755" duration="7105000" />
+      <workItem from="1748151989404" duration="2236000" />
+      <workItem from="1748156960841" duration="764000" />
+      <workItem from="1748171906715" duration="428000" />
+      <workItem from="1748399309918" duration="52000" />
+      <workItem from="1748401266876" duration="701000" />
+      <workItem from="1756946881627" duration="3393000" />
+      <workItem from="1757063275119" duration="678000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ultralytics/nn/tasks.py</url>
+          <line>952</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_idea$train.coverage" NAME="train Coverage Results" MODIFIED="1719834419262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$Convert.coverage" NAME="Convert Coverage Results" MODIFIED="1743128907166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$qq.coverage" NAME="qq Coverage Results" MODIFIED="1748068417521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YOLO_GD$train.coverage" NAME="train Coverage Results" MODIFIED="1717419524654" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$activations_and_gradients.coverage" NAME="activations_and_gradients Coverage Results" MODIFIED="1748064662363" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../anaconda3/envs/yolo/Lib/site-packages/pytorch_grad_cam" />
+    <SUITE FILE_PATH="coverage/hg$qqq.coverage" NAME="qqq Coverage Results" MODIFIED="1744806368883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$hm2.coverage" NAME="hm2 Coverage Results" MODIFIED="1748141185757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$train.coverage" NAME="train Coverage Results" MODIFIED="1748172135232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$block.coverage" NAME="block Coverage Results" MODIFIED="1748073421026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ultralytics/nn/modules" />
+    <SUITE FILE_PATH="coverage/hg$hm.coverage" NAME="hm Coverage Results" MODIFIED="1748152507223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$hm3.coverage" NAME="hm3 Coverage Results" MODIFIED="1748142514373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YOLO_GD$modify_txt.coverage" NAME="modify_txt Coverage Results" MODIFIED="1717246547332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$pyqt.coverage" NAME="pyqt Coverage Results" MODIFIED="1740367197357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YOLO_GD$recovery.coverage" NAME="recovery Coverage Results" MODIFIED="1717241696133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/YOLO_GD$coco2yolo.coverage" NAME="coco2yolo Coverage Results" MODIFIED="1717233169306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$pred.coverage" NAME="pred Coverage Results" MODIFIED="1742730309065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/hg$heatmap.coverage" NAME="heatmap Coverage Results" MODIFIED="1748133376575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

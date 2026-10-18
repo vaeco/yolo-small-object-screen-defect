@@ -1,0 +1,17 @@
+# The supplied modified Ultralytics tree is used directly. Do not pip-install
+# a different ultralytics version over it. Match torch/torchvision to your machine.
+torch
+torchvision
+numpy<2
+opencv-python
+Pillow
+PyYAML
+scipy
+matplotlib
+pandas
+seaborn
+psutil
+py-cpuinfo
+tqdm
+requests
+thop

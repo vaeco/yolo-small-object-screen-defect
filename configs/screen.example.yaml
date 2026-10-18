@@ -1,0 +1,7 @@
+# Replace this path with your own authorized dataset root.
+path: /path/to/screen_dataset
+train: images/train
+val: images/val
+nc: 5
+names: [black, distorted, red, blue, white]
+# Confirm that this index order matches your original annotation classes.txt.
